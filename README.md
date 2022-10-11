@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phantringuyen
+- 👋 Hi, I’m Phan Trí Nguyên
 - 👀 I’m interested in OCR technology
 - 🌱 I’m currently learning Computer Vision and Data Science
 - 💞️ I’m looking to collaborate on ...
