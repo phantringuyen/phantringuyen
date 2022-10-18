@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Phan Trí Nguyên
-- 👀 I’m interested in OCR technology
+- 👋 Hi, I’m Phan Trí Nguyên, a student at **University of Science - Vietnam National University Ho Chi Minh City** and at the moment, I am doing researchs on *Computer Vision* majors at school.
+- 👀 I’m interested in OCR technology, Medical image analysis, GAN in deepfakes, 
 - 🌱 I’m currently learning Computer Vision and Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on facebook https://www.facebook.com/nguyenphan2k2/
-
-<!---
-phantringuyen/phantringuyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on CAM/CAD teammates.
+- 📫 How to reach me on facebook [nguyenphan2k2](https://www.facebook.com/nguyenphan2k2/)
