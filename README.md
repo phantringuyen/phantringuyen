@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phan Trí Nguyên, a student at **University of Science - Vietnam National University Ho Chi Minh City** and at the moment, I am doing researchs on *Computer Vision* majors at school.
+- 👋 Hi, I’m Phan Trí Nguyên, a student at **University of Science - Vietnam National University Ho Chi Minh City** and at the moment, I am doing researchs on *Computer Vision* specialized majors at school.
 - 👀 I’m interested in OCR technology, Medical image analysis, GAN in deepfakes, 
 - 🌱 I’m currently learning Computer Vision and Data Science
 - 💞️ I’m looking to collaborate on CAM/CAD teammates.
